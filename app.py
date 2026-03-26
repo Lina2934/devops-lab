@@ -27,3 +27,4 @@ if __name__ == '__main__':
         print(f'Income: {income:>10,} THB | Tax: {tax:>10,.2f} THB')
 # Updated formatting
 # Version 1.1
+# Output format updated
